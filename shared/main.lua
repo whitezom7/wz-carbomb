@@ -11,7 +11,7 @@ Config.PlantAnimation = {
     anim = "weed_stand_check_low_idle01_inspector"
 }
 
-
+-- Exclusion Settings
 Config.ExcludeVehicles = {
     Enabled = true,
     List = {
